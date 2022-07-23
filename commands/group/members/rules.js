@@ -38,8 +38,6 @@ _Do not post other group's link without group admin's permission._
 ✔ Rule 08 -
 _Do not give any spoilers of any new movie or series._
 
-✔ Rule 09 -
-_Only numbers starting with the code +91 (i.e. Indians) are allowed to join._`;
 
   sock.sendMessage(from, { text }, { quoted: msg });
 };
